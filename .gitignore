@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+compressed_files/*
+decompressed_files/*
+outputs/*
+src/*.dict
+src/*.verify.tmp
+.DS_Store
